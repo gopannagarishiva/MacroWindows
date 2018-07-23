@@ -1,0 +1,15 @@
+C:\Users\test\source\repos\MacroClient\MacroClient\bin\Debug\MacroClient.exe.config
+C:\Users\test\source\repos\MacroClient\MacroClient\bin\Debug\MacroClient.exe
+C:\Users\test\source\repos\MacroClient\MacroClient\bin\Debug\MacroClient.pdb
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.Form1.resources
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.Home.resources
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.Properties.Resources.resources
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.send.resources
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.csproj.GenerateResource.cache
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.exe
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.pdb
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.csprojAssemblyReference.cache
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.recieve.resources
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.scan.resources
+C:\Users\test\source\repos\MacroClient\MacroClient\obj\Debug\MacroClient.settings_.resources
